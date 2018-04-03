@@ -1,0 +1,14 @@
+{
+  "name": "node-backlog-wiki-backup",
+  "version": "1.0.0",
+  "description": "Node.jsでBacklog(nulab)のwikiを添付ファイル含めバックアップする",
+  "author": "ongaq <work@4kissa.me>",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "make-dir": "^1.2.0"
+  },
+  "devDependencies": {}
+}
